@@ -1,80 +1,80 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="924" height="224" viewBox="0 0 924 224" role="img" aria-labelledby="title desc">
 <title id="title">cyberdrish contribution snake</title>
-<desc id="desc">Public GitHub contribution intensity from 2025-11-16 to 2026-11-21. A violet snake traverses the calendar. Colors represent GitHub contribution levels, not individual contribution counts.</desc>
+<desc id="desc">Public GitHub contribution intensity from 2025-11-23 to 2026-11-22. A violet snake traverses the calendar. Colors represent GitHub contribution levels, not individual contribution counts.</desc>
 <style>.snake{animation:travel 32s linear infinite}.day{animation-duration:32s;animation-timing-function:linear;animation-iteration-count:infinite}
 @keyframes travel{from{stroke-dashoffset:5}to{stroke-dashoffset:-375}}
 @media(prefers-reduced-motion:reduce){.snake{display:none}.day{animation:none!important}}
-@keyframes d13{0%,3.138%{opacity:1}3.158%,98%{opacity:0}100%{opacity:1}}
+@keyframes d6{0%,2.875%{opacity:1}2.895%,98%{opacity:0}100%{opacity:1}}
+@keyframes d60{0%,17.085%{opacity:1}17.105%,98%{opacity:0}100%{opacity:1}}
+@keyframes d62{0%,17.612%{opacity:1}17.632%,98%{opacity:0}100%{opacity:1}}
+@keyframes d63{0%,19.454%{opacity:1}19.474%,98%{opacity:0}100%{opacity:1}}
+@keyframes d64{0%,19.191%{opacity:1}19.211%,98%{opacity:0}100%{opacity:1}}
+@keyframes d65{0%,18.927%{opacity:1}18.947%,98%{opacity:0}100%{opacity:1}}
 @keyframes d67{0%,18.401%{opacity:1}18.421%,98%{opacity:0}100%{opacity:1}}
-@keyframes d69{0%,17.875%{opacity:1}17.895%,98%{opacity:0}100%{opacity:1}}
-@keyframes d70{0%,19.717%{opacity:1}19.737%,98%{opacity:0}100%{opacity:1}}
-@keyframes d71{0%,19.980%{opacity:1}20.000%,98%{opacity:0}100%{opacity:1}}
-@keyframes d72{0%,20.243%{opacity:1}20.263%,98%{opacity:0}100%{opacity:1}}
-@keyframes d74{0%,20.769%{opacity:1}20.789%,98%{opacity:0}100%{opacity:1}}
+@keyframes d77{0%,23.138%{opacity:1}23.158%,98%{opacity:0}100%{opacity:1}}
+@keyframes d78{0%,22.875%{opacity:1}22.895%,98%{opacity:0}100%{opacity:1}}
+@keyframes d79{0%,22.612%{opacity:1}22.632%,98%{opacity:0}100%{opacity:1}}
+@keyframes d80{0%,22.348%{opacity:1}22.368%,98%{opacity:0}100%{opacity:1}}
+@keyframes d81{0%,22.085%{opacity:1}22.105%,98%{opacity:0}100%{opacity:1}}
+@keyframes d82{0%,21.822%{opacity:1}21.842%,98%{opacity:0}100%{opacity:1}}
+@keyframes d83{0%,21.559%{opacity:1}21.579%,98%{opacity:0}100%{opacity:1}}
 @keyframes d84{0%,23.401%{opacity:1}23.421%,98%{opacity:0}100%{opacity:1}}
 @keyframes d85{0%,23.664%{opacity:1}23.684%,98%{opacity:0}100%{opacity:1}}
 @keyframes d86{0%,23.927%{opacity:1}23.947%,98%{opacity:0}100%{opacity:1}}
 @keyframes d87{0%,24.191%{opacity:1}24.211%,98%{opacity:0}100%{opacity:1}}
-@keyframes d88{0%,24.454%{opacity:1}24.474%,98%{opacity:0}100%{opacity:1}}
 @keyframes d89{0%,24.717%{opacity:1}24.737%,98%{opacity:0}100%{opacity:1}}
 @keyframes d90{0%,24.980%{opacity:1}25.000%,98%{opacity:0}100%{opacity:1}}
 @keyframes d91{0%,26.822%{opacity:1}26.842%,98%{opacity:0}100%{opacity:1}}
 @keyframes d92{0%,26.559%{opacity:1}26.579%,98%{opacity:0}100%{opacity:1}}
 @keyframes d93{0%,26.296%{opacity:1}26.316%,98%{opacity:0}100%{opacity:1}}
 @keyframes d94{0%,26.033%{opacity:1}26.053%,98%{opacity:0}100%{opacity:1}}
-@keyframes d96{0%,25.506%{opacity:1}25.526%,98%{opacity:0}100%{opacity:1}}
+@keyframes d95{0%,25.769%{opacity:1}25.789%,98%{opacity:0}100%{opacity:1}}
 @keyframes d97{0%,25.243%{opacity:1}25.263%,98%{opacity:0}100%{opacity:1}}
 @keyframes d98{0%,27.085%{opacity:1}27.105%,98%{opacity:0}100%{opacity:1}}
 @keyframes d99{0%,27.348%{opacity:1}27.368%,98%{opacity:0}100%{opacity:1}}
-@keyframes d100{0%,27.612%{opacity:1}27.632%,98%{opacity:0}100%{opacity:1}}
-@keyframes d101{0%,27.875%{opacity:1}27.895%,98%{opacity:0}100%{opacity:1}}
-@keyframes d102{0%,28.138%{opacity:1}28.158%,98%{opacity:0}100%{opacity:1}}
+@keyframes d103{0%,28.401%{opacity:1}28.421%,98%{opacity:0}100%{opacity:1}}
 @keyframes d104{0%,28.664%{opacity:1}28.684%,98%{opacity:0}100%{opacity:1}}
 @keyframes d105{0%,30.506%{opacity:1}30.526%,98%{opacity:0}100%{opacity:1}}
 @keyframes d106{0%,30.243%{opacity:1}30.263%,98%{opacity:0}100%{opacity:1}}
+@keyframes d108{0%,29.717%{opacity:1}29.737%,98%{opacity:0}100%{opacity:1}}
 @keyframes d110{0%,29.191%{opacity:1}29.211%,98%{opacity:0}100%{opacity:1}}
 @keyframes d111{0%,28.927%{opacity:1}28.947%,98%{opacity:0}100%{opacity:1}}
 @keyframes d112{0%,30.769%{opacity:1}30.789%,98%{opacity:0}100%{opacity:1}}
 @keyframes d113{0%,31.033%{opacity:1}31.053%,98%{opacity:0}100%{opacity:1}}
-@keyframes d115{0%,31.559%{opacity:1}31.579%,98%{opacity:0}100%{opacity:1}}
+@keyframes d114{0%,31.296%{opacity:1}31.316%,98%{opacity:0}100%{opacity:1}}
 @keyframes d117{0%,32.085%{opacity:1}32.105%,98%{opacity:0}100%{opacity:1}}
-@keyframes d118{0%,32.348%{opacity:1}32.368%,98%{opacity:0}100%{opacity:1}}
 @keyframes d119{0%,34.191%{opacity:1}34.211%,98%{opacity:0}100%{opacity:1}}
 @keyframes d120{0%,33.927%{opacity:1}33.947%,98%{opacity:0}100%{opacity:1}}
 @keyframes d121{0%,33.664%{opacity:1}33.684%,98%{opacity:0}100%{opacity:1}}
+@keyframes d122{0%,33.401%{opacity:1}33.421%,98%{opacity:0}100%{opacity:1}}
 @keyframes d124{0%,32.875%{opacity:1}32.895%,98%{opacity:0}100%{opacity:1}}
-@keyframes d126{0%,34.454%{opacity:1}34.474%,98%{opacity:0}100%{opacity:1}}
-@keyframes d127{0%,34.717%{opacity:1}34.737%,98%{opacity:0}100%{opacity:1}}
-@keyframes d128{0%,34.980%{opacity:1}35.000%,98%{opacity:0}100%{opacity:1}}
-@keyframes d129{0%,35.243%{opacity:1}35.263%,98%{opacity:0}100%{opacity:1}}
-@keyframes d131{0%,35.769%{opacity:1}35.789%,98%{opacity:0}100%{opacity:1}}
-@keyframes d148{0%,41.296%{opacity:1}41.316%,98%{opacity:0}100%{opacity:1}}
-@keyframes d151{0%,40.506%{opacity:1}40.526%,98%{opacity:0}100%{opacity:1}}
-@keyframes d156{0%,42.348%{opacity:1}42.368%,98%{opacity:0}100%{opacity:1}}
-@keyframes d200{0%,53.927%{opacity:1}53.947%,98%{opacity:0}100%{opacity:1}}
+@keyframes d141{0%,38.401%{opacity:1}38.421%,98%{opacity:0}100%{opacity:1}}
+@keyframes d144{0%,39.191%{opacity:1}39.211%,98%{opacity:0}100%{opacity:1}}
+@keyframes d149{0%,41.033%{opacity:1}41.053%,98%{opacity:0}100%{opacity:1}}
+@keyframes d193{0%,51.559%{opacity:1}51.579%,98%{opacity:0}100%{opacity:1}}
+@keyframes d254{0%,68.138%{opacity:1}68.158%,98%{opacity:0}100%{opacity:1}}
+@keyframes d256{0%,68.664%{opacity:1}68.684%,98%{opacity:0}100%{opacity:1}}
+@keyframes d258{0%,69.191%{opacity:1}69.211%,98%{opacity:0}100%{opacity:1}}
+@keyframes d259{0%,71.033%{opacity:1}71.053%,98%{opacity:0}100%{opacity:1}}
+@keyframes d260{0%,70.769%{opacity:1}70.789%,98%{opacity:0}100%{opacity:1}}
 @keyframes d261{0%,70.506%{opacity:1}70.526%,98%{opacity:0}100%{opacity:1}}
 @keyframes d263{0%,69.980%{opacity:1}70.000%,98%{opacity:0}100%{opacity:1}}
 @keyframes d265{0%,69.454%{opacity:1}69.474%,98%{opacity:0}100%{opacity:1}}
 @keyframes d266{0%,71.296%{opacity:1}71.316%,98%{opacity:0}100%{opacity:1}}
 @keyframes d267{0%,71.559%{opacity:1}71.579%,98%{opacity:0}100%{opacity:1}}
 @keyframes d268{0%,71.822%{opacity:1}71.842%,98%{opacity:0}100%{opacity:1}}
-@keyframes d270{0%,72.348%{opacity:1}72.368%,98%{opacity:0}100%{opacity:1}}
+@keyframes d269{0%,72.085%{opacity:1}72.105%,98%{opacity:0}100%{opacity:1}}
+@keyframes d271{0%,72.612%{opacity:1}72.632%,98%{opacity:0}100%{opacity:1}}
 @keyframes d272{0%,72.875%{opacity:1}72.895%,98%{opacity:0}100%{opacity:1}}
-@keyframes d273{0%,74.717%{opacity:1}74.737%,98%{opacity:0}100%{opacity:1}}
-@keyframes d274{0%,74.454%{opacity:1}74.474%,98%{opacity:0}100%{opacity:1}}
-@keyframes d275{0%,74.191%{opacity:1}74.211%,98%{opacity:0}100%{opacity:1}}
-@keyframes d276{0%,73.927%{opacity:1}73.947%,98%{opacity:0}100%{opacity:1}}
-@keyframes d278{0%,73.401%{opacity:1}73.421%,98%{opacity:0}100%{opacity:1}}
-@keyframes d279{0%,73.138%{opacity:1}73.158%,98%{opacity:0}100%{opacity:1}}
-@keyframes d292{0%,77.085%{opacity:1}77.105%,98%{opacity:0}100%{opacity:1}}
-@keyframes d293{0%,76.822%{opacity:1}76.842%,98%{opacity:0}100%{opacity:1}}
-@keyframes d295{0%,78.927%{opacity:1}78.947%,98%{opacity:0}100%{opacity:1}}
-@keyframes d320{0%,84.454%{opacity:1}84.474%,98%{opacity:0}100%{opacity:1}}
+@keyframes d285{0%,76.296%{opacity:1}76.316%,98%{opacity:0}100%{opacity:1}}
+@keyframes d286{0%,76.559%{opacity:1}76.579%,98%{opacity:0}100%{opacity:1}}
+@keyframes d288{0%,78.138%{opacity:1}78.158%,98%{opacity:0}100%{opacity:1}}
+@keyframes d313{0%,83.664%{opacity:1}83.684%,98%{opacity:0}100%{opacity:1}}
 </style>
 <rect x="0.5" y="0.5" width="923" height="223" rx="12" fill="#0D1117" stroke="#312E81"/>
 <g font-family="Segoe UI,Arial,sans-serif">
 <text x="28" y="30" fill="#C4B5FD" font-size="15" font-weight="600">Contribution Calendar</text>
-<text x="896" y="30" text-anchor="end" fill="#8B949E" font-size="10">2025-11-16 — 2026-11-21</text>
+<text x="896" y="30" text-anchor="end" fill="#8B949E" font-size="10">2025-11-23 — 2026-11-22</text>
 <text x="48" y="55" fill="#8B949E" font-size="10">Nov</text>
 <rect x="48" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="48" y="82" width="11" height="11" rx="2" fill="#161B22"/>
@@ -83,16 +83,16 @@
 <rect x="48" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="48" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="48" y="162" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d6" x="48" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2025-11-29: contribution level 2 of 4</title></rect>
 <rect x="64" y="66" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="64" y="55" fill="#8B949E" font-size="10">Dec</text>
 <rect x="64" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="64" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="64" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="64" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="64" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="64" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d13" x="64" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2025-11-29: contribution level 2 of 4</title></rect>
 <rect x="80" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="80" y="55" fill="#8B949E" font-size="10">Dec</text>
 <rect x="80" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="80" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="80" y="114" width="11" height="11" rx="2" fill="#161B22"/>
@@ -117,6 +117,7 @@
 <rect x="128" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="128" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="128" y="114" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="128" y="55" fill="#8B949E" font-size="10">Jan</text>
 <rect x="128" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="128" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="128" y="162" width="11" height="11" rx="2" fill="#161B22"/>
@@ -124,7 +125,6 @@
 <rect x="144" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="144" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="144" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="144" y="55" fill="#8B949E" font-size="10">Jan</text>
 <rect x="144" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="144" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="144" y="162" width="11" height="11" rx="2" fill="#161B22"/>
@@ -140,153 +140,154 @@
 <rect x="176" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="176" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="176" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d60" x="176" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-22: contribution level 1 of 4</title></rect>
 <rect x="176" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="176" y="162" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d62" x="176" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-01-24: contribution level 2 of 4</title></rect>
 <rect x="192" y="66" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d63" x="192" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-25: contribution level 1 of 4</title></rect>
 <rect x="192" y="82" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d64" x="192" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-26: contribution level 1 of 4</title></rect>
 <rect x="192" y="98" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d65" x="192" y="98" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-01-27: contribution level 2 of 4</title></rect>
 <rect x="192" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="192" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d67" x="192" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-22: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d67" x="192" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-29: contribution level 1 of 4</title></rect>
 <rect x="192" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="192" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d69" x="192" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-01-24: contribution level 2 of 4</title></rect>
+<text x="208" y="55" fill="#8B949E" font-size="10">Feb</text>
 <rect x="208" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d70" x="208" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-25: contribution level 1 of 4</title></rect>
 <rect x="208" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d71" x="208" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-26: contribution level 1 of 4</title></rect>
 <rect x="208" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d72" x="208" y="98" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-01-27: contribution level 2 of 4</title></rect>
 <rect x="208" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="208" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d74" x="208" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-01-29: contribution level 1 of 4</title></rect>
 <rect x="208" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="208" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="224" y="55" fill="#8B949E" font-size="10">Feb</text>
 <rect x="224" y="66" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d77" x="224" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-08: contribution level 2 of 4</title></rect>
 <rect x="224" y="82" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d78" x="224" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-09: contribution level 1 of 4</title></rect>
 <rect x="224" y="98" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d79" x="224" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-10: contribution level 1 of 4</title></rect>
 <rect x="224" y="114" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d80" x="224" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-11: contribution level 1 of 4</title></rect>
 <rect x="224" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d81" x="224" y="130" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-02-12: contribution level 3 of 4</title></rect>
 <rect x="224" y="146" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d82" x="224" y="146" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-13: contribution level 2 of 4</title></rect>
 <rect x="224" y="162" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d83" x="224" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-14: contribution level 1 of 4</title></rect>
 <rect x="240" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d84" x="240" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-08: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d84" x="240" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-15: contribution level 2 of 4</title></rect>
 <rect x="240" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d85" x="240" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-09: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d85" x="240" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-16: contribution level 1 of 4</title></rect>
 <rect x="240" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d86" x="240" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-10: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d86" x="240" y="98" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-02-17: contribution level 3 of 4</title></rect>
 <rect x="240" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d87" x="240" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-11: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d87" x="240" y="114" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-18: contribution level 2 of 4</title></rect>
 <rect x="240" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d88" x="240" y="130" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-02-12: contribution level 3 of 4</title></rect>
 <rect x="240" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d89" x="240" y="146" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-13: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d89" x="240" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-20: contribution level 1 of 4</title></rect>
 <rect x="240" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d90" x="240" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-14: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d90" x="240" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-21: contribution level 1 of 4</title></rect>
 <rect x="256" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d91" x="256" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-15: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d91" x="256" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-22: contribution level 2 of 4</title></rect>
 <rect x="256" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d92" x="256" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-16: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d92" x="256" y="82" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-23: contribution level 2 of 4</title></rect>
 <rect x="256" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d93" x="256" y="98" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-02-17: contribution level 3 of 4</title></rect>
+<rect class="day" style="animation-name:d93" x="256" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-24: contribution level 1 of 4</title></rect>
 <rect x="256" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d94" x="256" y="114" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-18: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d94" x="256" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-25: contribution level 1 of 4</title></rect>
 <rect x="256" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d95" x="256" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-26: contribution level 1 of 4</title></rect>
 <rect x="256" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d96" x="256" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-20: contribution level 1 of 4</title></rect>
 <rect x="256" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d97" x="256" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-21: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d97" x="256" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-28: contribution level 1 of 4</title></rect>
+<text x="272" y="55" fill="#8B949E" font-size="10">Mar</text>
 <rect x="272" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d98" x="272" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-22: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d98" x="272" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-01: contribution level 1 of 4</title></rect>
 <rect x="272" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d99" x="272" y="82" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-02-23: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d99" x="272" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-02: contribution level 1 of 4</title></rect>
 <rect x="272" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d100" x="272" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-24: contribution level 1 of 4</title></rect>
 <rect x="272" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d101" x="272" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-25: contribution level 1 of 4</title></rect>
 <rect x="272" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d102" x="272" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-26: contribution level 1 of 4</title></rect>
 <rect x="272" y="146" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d103" x="272" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-06: contribution level 1 of 4</title></rect>
 <rect x="272" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d104" x="272" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-02-28: contribution level 1 of 4</title></rect>
-<text x="288" y="55" fill="#8B949E" font-size="10">Mar</text>
+<rect class="day" style="animation-name:d104" x="272" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-07: contribution level 1 of 4</title></rect>
 <rect x="288" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d105" x="288" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-01: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d105" x="288" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-03-08: contribution level 2 of 4</title></rect>
 <rect x="288" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d106" x="288" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-02: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d106" x="288" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-09: contribution level 1 of 4</title></rect>
 <rect x="288" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="288" y="114" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d108" x="288" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-11: contribution level 1 of 4</title></rect>
 <rect x="288" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="288" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d110" x="288" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-06: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d110" x="288" y="146" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-03-13: contribution level 2 of 4</title></rect>
 <rect x="288" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d111" x="288" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-07: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d111" x="288" y="162" width="11" height="11" rx="2" fill="#C4B5FD"><title>2026-03-14: contribution level 4 of 4</title></rect>
 <rect x="304" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d112" x="304" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-03-08: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d112" x="304" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-03-15: contribution level 2 of 4</title></rect>
 <rect x="304" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d113" x="304" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-09: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d113" x="304" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-16: contribution level 1 of 4</title></rect>
 <rect x="304" y="98" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d114" x="304" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-17: contribution level 1 of 4</title></rect>
 <rect x="304" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d115" x="304" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-11: contribution level 1 of 4</title></rect>
 <rect x="304" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="304" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d117" x="304" y="146" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-03-13: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d117" x="304" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-20: contribution level 1 of 4</title></rect>
 <rect x="304" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d118" x="304" y="162" width="11" height="11" rx="2" fill="#C4B5FD"><title>2026-03-14: contribution level 4 of 4</title></rect>
 <rect x="320" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d119" x="320" y="66" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-03-15: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d119" x="320" y="66" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-03-22: contribution level 3 of 4</title></rect>
 <rect x="320" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d120" x="320" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-16: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d120" x="320" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-23: contribution level 1 of 4</title></rect>
 <rect x="320" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d121" x="320" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-17: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d121" x="320" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-24: contribution level 1 of 4</title></rect>
 <rect x="320" y="114" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d122" x="320" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-25: contribution level 1 of 4</title></rect>
 <rect x="320" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="320" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d124" x="320" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-20: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d124" x="320" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-27: contribution level 1 of 4</title></rect>
 <rect x="320" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="336" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d126" x="336" y="66" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-03-22: contribution level 3 of 4</title></rect>
 <rect x="336" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d127" x="336" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-23: contribution level 1 of 4</title></rect>
 <rect x="336" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d128" x="336" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-24: contribution level 1 of 4</title></rect>
+<text x="336" y="55" fill="#8B949E" font-size="10">Apr</text>
 <rect x="336" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d129" x="336" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-25: contribution level 1 of 4</title></rect>
 <rect x="336" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="336" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d131" x="336" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-03-27: contribution level 1 of 4</title></rect>
 <rect x="336" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="352" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="352" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="352" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="352" y="55" fill="#8B949E" font-size="10">Apr</text>
 <rect x="352" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="352" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="352" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="352" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="368" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="368" y="82" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d141" x="368" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-04-13: contribution level 1 of 4</title></rect>
 <rect x="368" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="368" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="368" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d144" x="368" y="130" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-04-16: contribution level 3 of 4</title></rect>
 <rect x="368" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="368" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="384" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="384" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d148" x="384" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-04-13: contribution level 1 of 4</title></rect>
 <rect x="384" y="98" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d149" x="384" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-04-21: contribution level 1 of 4</title></rect>
 <rect x="384" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="384" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d151" x="384" y="130" width="11" height="11" rx="2" fill="#8B5CF6"><title>2026-04-16: contribution level 3 of 4</title></rect>
 <rect x="384" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="384" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="400" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="400" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="400" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d156" x="400" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-04-21: contribution level 1 of 4</title></rect>
 <rect x="400" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="400" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="400" y="55" fill="#8B949E" font-size="10">May</text>
 <rect x="400" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="400" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="416" y="66" width="11" height="11" rx="2" fill="#161B22"/>
@@ -294,7 +295,6 @@
 <rect x="416" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="416" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="416" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="416" y="55" fill="#8B949E" font-size="10">May</text>
 <rect x="416" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="416" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="432" y="66" width="11" height="11" rx="2" fill="#161B22"/>
@@ -319,19 +319,19 @@
 <rect x="464" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="464" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="480" y="66" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="480" y="55" fill="#8B949E" font-size="10">Jun</text>
 <rect x="480" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="480" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="480" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="480" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d193" x="480" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-06-04: contribution level 1 of 4</title></rect>
 <rect x="480" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="480" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="496" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="496" y="55" fill="#8B949E" font-size="10">Jun</text>
 <rect x="496" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="496" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="496" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="496" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d200" x="496" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-06-04: contribution level 1 of 4</title></rect>
 <rect x="496" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="496" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="512" y="66" width="11" height="11" rx="2" fill="#161B22"/>
@@ -351,6 +351,7 @@
 <rect x="544" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="544" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="544" y="98" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="544" y="55" fill="#8B949E" font-size="10">Jul</text>
 <rect x="544" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="544" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="544" y="146" width="11" height="11" rx="2" fill="#161B22"/>
@@ -358,7 +359,6 @@
 <rect x="560" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="560" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="560" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="560" y="55" fill="#8B949E" font-size="10">Jul</text>
 <rect x="560" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="560" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="560" y="146" width="11" height="11" rx="2" fill="#161B22"/>
@@ -383,70 +383,70 @@
 <rect x="608" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="608" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="608" y="146" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="608" y="55" fill="#8B949E" font-size="10">Aug</text>
 <rect x="608" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="624" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="624" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="624" y="98" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d254" x="624" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-04: contribution level 1 of 4</title></rect>
 <rect x="624" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="624" y="130" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d256" x="624" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-06: contribution level 1 of 4</title></rect>
 <rect x="624" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="624" y="55" fill="#8B949E" font-size="10">Aug</text>
 <rect x="624" y="162" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d258" x="624" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-08: contribution level 2 of 4</title></rect>
 <rect x="640" y="66" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d259" x="640" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-09: contribution level 1 of 4</title></rect>
 <rect x="640" y="82" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d260" x="640" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-10: contribution level 1 of 4</title></rect>
 <rect x="640" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d261" x="640" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-04: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d261" x="640" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-11: contribution level 1 of 4</title></rect>
 <rect x="640" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="640" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d263" x="640" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-06: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d263" x="640" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-13: contribution level 1 of 4</title></rect>
 <rect x="640" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="640" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d265" x="640" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-08: contribution level 2 of 4</title></rect>
+<rect class="day" style="animation-name:d265" x="640" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-15: contribution level 1 of 4</title></rect>
 <rect x="656" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d266" x="656" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-09: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d266" x="656" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-16: contribution level 1 of 4</title></rect>
 <rect x="656" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d267" x="656" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-10: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d267" x="656" y="82" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-17: contribution level 2 of 4</title></rect>
 <rect x="656" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d268" x="656" y="98" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-11: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d268" x="656" y="98" width="11" height="11" rx="2" fill="#C4B5FD"><title>2026-08-18: contribution level 4 of 4</title></rect>
 <rect x="656" y="114" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d269" x="656" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-19: contribution level 1 of 4</title></rect>
 <rect x="656" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d270" x="656" y="130" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-13: contribution level 1 of 4</title></rect>
 <rect x="656" y="146" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d271" x="656" y="146" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-21: contribution level 2 of 4</title></rect>
 <rect x="656" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d272" x="656" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-15: contribution level 1 of 4</title></rect>
+<rect class="day" style="animation-name:d272" x="656" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-22: contribution level 2 of 4</title></rect>
 <rect x="672" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d273" x="672" y="66" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-16: contribution level 1 of 4</title></rect>
 <rect x="672" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d274" x="672" y="82" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-17: contribution level 2 of 4</title></rect>
 <rect x="672" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d275" x="672" y="98" width="11" height="11" rx="2" fill="#C4B5FD"><title>2026-08-18: contribution level 4 of 4</title></rect>
 <rect x="672" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d276" x="672" y="114" width="11" height="11" rx="2" fill="#312E81"><title>2026-08-19: contribution level 1 of 4</title></rect>
 <rect x="672" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="672" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d278" x="672" y="146" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-21: contribution level 2 of 4</title></rect>
 <rect x="672" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d279" x="672" y="162" width="11" height="11" rx="2" fill="#5B21B6"><title>2026-08-22: contribution level 2 of 4</title></rect>
 <rect x="688" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="688" y="82" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="688" y="55" fill="#8B949E" font-size="10">Sep</text>
 <rect x="688" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="688" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="688" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="688" y="146" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d285" x="688" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-09-04: contribution level 1 of 4</title></rect>
 <rect x="688" y="162" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d286" x="688" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-09-05: contribution level 1 of 4</title></rect>
 <rect x="704" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="704" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="704" y="55" fill="#8B949E" font-size="10">Sep</text>
+<rect class="day" style="animation-name:d288" x="704" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-09-07: contribution level 1 of 4</title></rect>
 <rect x="704" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="704" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="704" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="704" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d292" x="704" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-09-04: contribution level 1 of 4</title></rect>
 <rect x="704" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d293" x="704" y="162" width="11" height="11" rx="2" fill="#312E81"><title>2026-09-05: contribution level 1 of 4</title></rect>
 <rect x="720" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="720" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d295" x="720" y="82" width="11" height="11" rx="2" fill="#312E81"><title>2026-09-07: contribution level 1 of 4</title></rect>
 <rect x="720" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="720" y="114" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="720" y="130" width="11" height="11" rx="2" fill="#161B22"/>
@@ -463,17 +463,17 @@
 <rect x="752" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="752" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="752" y="114" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="752" y="55" fill="#8B949E" font-size="10">Oct</text>
 <rect x="752" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="752" y="146" width="11" height="11" rx="2" fill="#161B22"/>
+<rect class="day" style="animation-name:d313" x="752" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-10-02: contribution level 1 of 4</title></rect>
 <rect x="752" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="768" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="768" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="768" y="98" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="768" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="768" y="55" fill="#8B949E" font-size="10">Oct</text>
 <rect x="768" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="768" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect class="day" style="animation-name:d320" x="768" y="146" width="11" height="11" rx="2" fill="#312E81"><title>2026-10-02: contribution level 1 of 4</title></rect>
 <rect x="768" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="784" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="784" y="82" width="11" height="11" rx="2" fill="#161B22"/>
@@ -496,6 +496,7 @@
 <rect x="816" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="816" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="816" y="162" width="11" height="11" rx="2" fill="#161B22"/>
+<text x="832" y="55" fill="#8B949E" font-size="10">Nov</text>
 <rect x="832" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="832" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="832" y="98" width="11" height="11" rx="2" fill="#161B22"/>
@@ -503,7 +504,6 @@
 <rect x="832" y="130" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="832" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="832" y="162" width="11" height="11" rx="2" fill="#161B22"/>
-<text x="848" y="55" fill="#8B949E" font-size="10">Nov</text>
 <rect x="848" y="66" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="848" y="82" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="848" y="98" width="11" height="11" rx="2" fill="#161B22"/>
@@ -519,12 +519,6 @@
 <rect x="864" y="146" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="864" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <rect x="880" y="66" width="11" height="11" rx="2" fill="#161B22"/>
-<rect x="880" y="82" width="11" height="11" rx="2" fill="#161B22"/>
-<rect x="880" y="98" width="11" height="11" rx="2" fill="#161B22"/>
-<rect x="880" y="114" width="11" height="11" rx="2" fill="#161B22"/>
-<rect x="880" y="130" width="11" height="11" rx="2" fill="#161B22"/>
-<rect x="880" y="146" width="11" height="11" rx="2" fill="#161B22"/>
-<rect x="880" y="162" width="11" height="11" rx="2" fill="#161B22"/>
 <text x="15" y="91" fill="#8B949E" font-size="9">Mon</text>
 <text x="15" y="123" fill="#8B949E" font-size="9">Wed</text>
 <text x="15" y="155" fill="#8B949E" font-size="9">Fri</text>
